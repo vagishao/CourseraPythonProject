@@ -1,2 +1,1 @@
-# Display the output
-print('New Python File')
+# Hands-on Lab: Analyzing Historical Stock/Revenue Data and Building a Dashboard
